@@ -1,4 +1,4 @@
-## Hi, I'm Mi Cheng, a Developer 🚀 from China HangZhou.
+## Hi, I'm Mi Cheng, a Developer 🚀 from China.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: safemonitor@gmail.com;
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 **Languages and Tools:**
 
