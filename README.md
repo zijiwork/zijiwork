@@ -7,7 +7,7 @@ You can use the website to generate badges: https://shields.io/
 [![GitHub: ZiJiWork](https://img.shields.io/github/followers/zijiwork?label=ZiJiWork&style=social)](https://github.com/zijiwork)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:safemonitor@gmail.com)
 [![Twitter: ZiJiWork](https://img.shields.io/twitter/follow/zijiwork?style=social)](https://twitter.com/zijiwork)
-[![Linkedin: ZiJiWork](https://img.shields.io/badge/-DasyDong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dasy-dong-83392970/)](https://www.linkedin.com/in/dasy-dong-83392970/)
+[![Linkedin: ZiJiWork](https://img.shields.io/badge/-ZiJiWork-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zijiwork-83392970/)](https://www.linkedin.com/in/dasy-dong-83392970/)
 <a href="https://gitstar-ranking.com/repositories"> <img src="https://badgen.net/badge/Rank/9999?icon=github&color=red"></a>
 
 
