@@ -1,13 +1,13 @@
-## Hi, I'm Mi Cheng, a Developer 🚀 from China.
+## Hi, I'm Dasy Dong, a Developer 🚀 from China.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![GitHub: ZiJiWork](https://img.shields.io/github/followers/dasydong?label=ZiJiWork&style=social)](https://github.com/zijiwork)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:safemonitor@gmail.com)
-[![Twitter: ZiJiWork](https://img.shields.io/twitter/follow/zijiwork?style=social)](https://twitter.com/zijiwork)
-[![Linkedin: ZiJiWork](https://img.shields.io/badge/-zijiwork-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zijiwork-83392970/)](https://www.linkedin.com/in/zijiwork-83392970/)
+[![GitHub: Dasy Dong](https://img.shields.io/github/followers/dasydong?label=DasyDong&style=social)](https://github.com/dasydong)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dasydong@gmail.com)
+[![Twitter: Dasy Dong](https://img.shields.io/twitter/follow/dasydong?style=social)](https://twitter.com/dasydong)
+[![Linkedin: Dasy Dong](https://img.shields.io/badge/-DasyDong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dasy-dong-83392970/)](https://www.linkedin.com/in/dasy-dong-83392970/)
 <a href="https://gitstar-ranking.com/repositories"> <img src="https://badgen.net/badge/Rank/9999?icon=github&color=red"></a>
 
 
@@ -17,17 +17,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-<!--
-**zijiwork/zijiwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on [Interview](https://github.com/dasydong/interview);
+- 👨🏽‍💻 I’m currently working on [Interview](https://github.com/dasydong/interview);
 - 🌱 I’m currently learning Go and K8s;
-- 👯 I’m looking to collaborate on [Interview](https://github.com/zijiwork/interview) 🤝;
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on [Interview](https://github.com/dasydong/interview) 🤝;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: safemonitor@gmail.com;
+- 📫 How to reach me: dasydong@gmail.com;
 
 
 **Languages and Tools:**
