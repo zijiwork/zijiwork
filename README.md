@@ -22,17 +22,17 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning Go and K8s;
 - 👯 I’m looking to collaborate on [Interview](https://github.com/zijiwork/interview) 🤝;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: safemonitor@gmail.com;
+- 📫 How to reach me: safemonitor@outlook.com;
 
 
 **Languages and Tools:**
 
 <!-- Your github readme stats
-You can use this api: https://github.com/dasydong/github-readme-stats
+You can use this api: https://github.com/zijiwork/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/dasydong/">
-    <img  margin-top="-30px" width="55%" align="right" alt="dasydong's github stats" src="https://github-readme-stats.vercel.app/api?username=dasydong&show_icons=true&hide_border=true" />
+  <a href="https://github.com/zijiwork/">
+    <img  margin-top="-30px" width="55%" align="right" alt="zijiwork's github stats" src="https://github-readme-stats.vercel.app/api?username=dasydong&show_icons=true&hide_border=true" />
   </a>
 
   <!-- Your languages and tools. Be carefufal with the alignment.
