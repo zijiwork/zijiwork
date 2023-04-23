@@ -18,7 +18,6 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 
-- 👨🏽‍💻 I’m currently working on [Interview](https://github.com/zijiwork/interview);
 - 🌱 I’m currently learning Go and K8s;
 - 👯 I’m looking to collaborate on [Interview](https://github.com/zijiwork/interview) 🤝;
 - 💬 Ask me about anything, I am happy to help;
