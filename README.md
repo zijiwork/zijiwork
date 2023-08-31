@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 
-- 🌱 I’m currently learning Go and K8s;
+- 🌱 I’m currently learning Go and ebpf;
 - 👯 I’m looking to collaborate on [Interview](https://github.com/zijiwork/interview) 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: safemonitor@outlook.com;
@@ -47,6 +47,13 @@ You can use this api: https://github.com/zijiwork/github-readme-stats
   <code><img width="10%" height="50" src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/saltstack/saltstack-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg"></code>
+
+
+ 
 </p>
